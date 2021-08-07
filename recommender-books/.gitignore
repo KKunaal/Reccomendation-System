@@ -1,0 +1,8 @@
+./node_modules
+./bin
+./data
+./views
+./app.js
+./model.js
+./package-lock.json
+./package.json
