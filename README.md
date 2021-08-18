@@ -1,6 +1,5 @@
 ### Book Recommendation App Using Python TF-Keras and Javascript Tensorflow.js
 
-![](bookgif.gif)
 
 The Book Recommender application is built using Tensorflow-Keras on book data from [Here](https://www.kaggle.com/zygmunt/goodbooks-10k).
 
@@ -10,7 +9,6 @@ The model uses embeddings to learn the mapping of books and users to ratings. Th
 
 The [Python-Model](/Python-Model) folder contains all Python training files, including dataset, saved model, and embeddings which we visualized below, using the Tensorflow Projector.
 
-![](embedgif.gif)
 
 The [recommender-books]() folder contains the web application. We first converted the saved model to Javascript format, and then embed it in the application.
 
