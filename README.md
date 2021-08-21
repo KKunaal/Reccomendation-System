@@ -1,5 +1,4 @@
-### Book Recommendation App Using Python TF-Keras and Javascript Tensorflow.js
-
+### BookFlix: A Book Recommendation System
 
 The Book Recommender application is built using Tensorflow-Keras on book data from [Here](https://www.kaggle.com/zygmunt/goodbooks-10k).
 
