@@ -1,6 +1,6 @@
-### BookFlix: A Book Recommendation System
+## BookFlix: A Book Recommendation System
 
-## Summary: 
+#### Summary: 
 Built-in Python using Keras functional API, and it is a hybrid implementation of Collaborative filtering and Content-based filtering. Embedded the trained model with Javascript in a web application which is deployed using Google Firebase.
 
 
