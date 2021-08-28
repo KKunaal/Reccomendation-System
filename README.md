@@ -1,5 +1,9 @@
 ### BookFlix: A Book Recommendation System
 
+## Summary: 
+Built-in Python using Keras functional API, and it is a hybrid implementation of Collaborative filtering and Content-based filtering. Embedded the trained model with Javascript in a web application which is deployed using Google Firebase.
+
+
 The Book Recommender application is built using Tensorflow-Keras on book data from [Here](https://www.kaggle.com/zygmunt/goodbooks-10k).
 
 __Link to live site [here](https://book-recommender-b4090.web.app/)__
@@ -35,3 +39,11 @@ To run the application, follow the steps below:
 
 
 The [rec-book-firebase](/rec-book-firebase) folder contains the modified version of [recommender-sys](/recommender-sys) which is hosted on Google Firebase.
+
+# Authors:
+#### 1. [Kunal Ghanghav](#https://github.com/KKunaal)
+#### 2. [Anshita Srivastava](#https://github.com/anshita22)
+
+#### Copyright &copy; 2021 | [Kunal Ghanghav](https://github.com/KKunaal) [Anshita Srivastava](https://github.com/anshita22) | All rights reserved.
+
+
